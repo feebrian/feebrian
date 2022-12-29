@@ -2,4 +2,4 @@
 
 I'm a begginer Programmer. <br>
 My dream is about to be Full Stack Web Developer, <br>
-But for now I mostly learn Back-End programming language such as php, sql, python, etc.
+But for now I mostly learn Back-End programming language such as php, sql, javascript, etc.
