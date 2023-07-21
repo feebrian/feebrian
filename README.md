@@ -5,3 +5,4 @@ My dream is about to be Full Stack Web Developer, <br>
 But for now I mostly learn Back-End programming language such as Go, PHP, Javascript, etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebrian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feebrian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
