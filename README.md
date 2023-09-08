@@ -2,7 +2,7 @@
 
 I'm a begginer Programmer. <br>
 My dream is about to be Full Stack Web Developer, <br>
-But for now I mostly learn Back-End programming language such as Go, PHP, Javascript, etc.
+But for now I mostly learn Back-End programming language such as Go, PHP, Nodejs, etc.
 
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
