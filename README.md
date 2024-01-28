@@ -10,11 +10,11 @@
 
 - 📝 I regularly write articles on [https://unameee.medium.com](https://unameee.medium.com)
 
-- 💬 Ask me about **things that i could do**
+- 💬 Ask me about **Laravel, Node.JS, NestJS**
 
 - 📫 How to reach me **adamaditama293@gmail.com**
 
-- ⚡ Fun fact **people call me Adummy**
+- ⚡ Fun fact **people call me a dummy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
