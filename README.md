@@ -25,6 +25,10 @@
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feebrian&show_icons=true&locale=en&layout=compact" alt="feebrian" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=feebrian&" alt="feebrian" />
 </div>
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feebrian&show_icons=true&locale=en&layout=compact" alt="feebrian" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=feebrian&" alt="feebrian" />
+</div>
 
 
 ---
