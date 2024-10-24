@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/feebrian?label=Follow&style=social)](https://github.com/feebrian)
 
 - 🌱 I’m currently learning **Node.JS, NestJS, Typescript, Laravel**
-- 📝 I regularly write articles on [https://unameee.medium.com](https://unameee.medium.com
+- 📝 I regularly write articles on [https://unameee.medium.com](https://unameee.medium.com)
 - 💬 Ask me about **Laravel, Node.JS, NestJS**
 - 📫 Reach me out **adamaditama293@gmail.com**
 - ⚡ Fun fact **people call me a dummy**
