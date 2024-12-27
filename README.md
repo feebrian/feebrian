@@ -12,11 +12,12 @@
 - 📝 I regularly write articles on [https://unameee.medium.com](https://unameee.medium.com)
 - 💬 Ask me about **Laravel, Node.JS, NestJS**
 - 📫 Reach me out **adamaditama293@gmail.com**
-- ⚡ Fun fact **people call me a dummy**
+- ⚡ Fun fact **nothing fun**
 
 ### 🖥 Skills
 
 - Web Programming
+- Back End development
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&color=353535) ![Bootstrap](https://img.shields.io/badge/-HTMX-05122A?style=flat&logo=HTMX&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=Codeigniter&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Dbeaver-05122A?style=flat&logo=Dbeaver&color=353535) ![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&color=353535) ![Bootstrap](https://img.shields.io/badge/-Firefox-05122A?style=flat&logo=Firefox&color=353535) ![Bootstrap](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=Insomnia&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Debian-05122A?style=flat-square&logo=Debian&color=353535)
