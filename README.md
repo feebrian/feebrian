@@ -27,14 +27,14 @@
 - Back End Development
 
 ## ⚙️ Tech Stack
-- ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&color=353535)
-- ![HTMX](https://img.shields.io/badge/-HTMX-05122A?style=flat&logo=HTMX&color=353535)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&color=353535)
-- ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&color=353535)
-- ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&color=353535)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&color=353535)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535)
-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=353535)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&color=353535)
+![HTMX](https://img.shields.io/badge/-HTMX-05122A?style=flat&logo=HTMX&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&color=353535)
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=NestJS&color=353535)
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&color=353535)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&color=353535)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=353535)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=353535)
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feebrian&show_icons=true&locale=en&layout=compact" alt="feebrian" />
