@@ -19,6 +19,7 @@ Hey! I’m a web programmer who loves building cool stuff with PHP, CodeIgniter,
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&color=353535)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=Codeigniter&color=353535)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=353535)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535)
 
 ## 📫 Reach me out
 Feel free to connect with me or check out my projects on GitHub!
