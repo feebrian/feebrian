@@ -1,7 +1,6 @@
 # Hi there, I'm Adam Aditama 👋
 Hey! I’m a web programmer who loves building cool stuff with PHP, CodeIgniter, and JavaScript. I enjoy working on web apps, solving problems, and learning new things along the way
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffeebrian%2Ffeebrian&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/adamaditama)](https://twitter.com/adamaditama)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-aditamaaa/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/adamadtm__/)](https://www.instagram.com/adamadtm__)
