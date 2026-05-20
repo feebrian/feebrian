@@ -22,5 +22,3 @@ Hey! I’m a web programmer who loves building cool stuff with PHP, CodeIgniter,
 
 ## 📫 Reach me out
 Feel free to connect with me or check out my projects on GitHub!
-<br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=feebrian&theme=dark)](https://git.io/streak-stats)
