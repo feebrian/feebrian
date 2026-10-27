@@ -7,7 +7,7 @@ Hey! I’m a web programmer who loves building cool stuff with PHP, CodeIgniter,
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adamaditama293@gmail.com)
 [![Github](https://img.shields.io/github/followers/feebrian?label=Follow&style=social)](https://github.com/feebrian)
 
-## ⚙️ Tech Stack
+## Tech Stack
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go&color=353535)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&color=353535)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&color=353535)
@@ -20,5 +20,5 @@ Hey! I’m a web programmer who loves building cool stuff with PHP, CodeIgniter,
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=353535)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=353535)
 
-## 📫 Reach me out
+## Reach me out
 Feel free to connect with me or check out my projects on GitHub!
