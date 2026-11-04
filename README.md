@@ -57,15 +57,6 @@ I enjoy working on web apps, solving problems, and learning new things along the
 **Tools & DevOps**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feebrian&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feebrian&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
 ## Connect
 
 Feel free to connect with me or check out my projects on GitHub!
